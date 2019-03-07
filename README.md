@@ -1,6 +1,6 @@
-# this a reposit i borrowed from https://github.com/jwyang/faster-rcnn.pytorch.git. thks the original authors excellent job
-# used for my master thesis. try to modify some parts to fit my own anther model
-# A *Faster* Pytorch Implementation of Faster R-CNN
+# this is a reposit i borrowed from https://github.com/jwyang/faster-rcnn.pytorch.git. thks the original authors excellent job
+used for my master thesis. try to modify some parts to fit my own anther model
+A *Faster* Pytorch Implementation of Faster R-CNN
 
 ## Introduction
 
